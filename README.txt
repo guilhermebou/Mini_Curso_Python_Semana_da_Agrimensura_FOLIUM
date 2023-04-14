@@ -1,8 +1,22 @@
 *Aula 2 do Minicurso de Python para a semana da agrimensura* 
 
 	Ministrado por Guilherme Bou e Vinicius Pires   
+	
+-> FOLIUM <- 
 
+version: 0.12.1.post1
 
+[DOC] https://python-visualization.github.io/folium/index.html
+
+[REF] Flavio-SudoControl - http://sudocontrol.com.br 
+
+[REF] Eng.Robert Carlos - https://datalivre.medium.com/folium-d6036a9ad29c
+
+UTM
+
+[REF/DOC] https://github.com/Turbo87/utm
+
+----------------------------------------------------------------------------------------------
 
 Aplicação consiste manipulação de arquivos, conversão de coordenadas UTM para coordenadas geográficas e criação de mapas interativos.  
 
